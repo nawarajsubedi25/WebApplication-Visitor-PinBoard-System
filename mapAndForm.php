@@ -1,7 +1,7 @@
 <html>
 
 	<head>
-		<title>Monro-West-Monroe C&VB</title>
+		<title>Welcome to Kathamndu, Nepal</title>
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 		<meta charset="utf-8">
 		<!-- Address autofill plugin -->
@@ -367,7 +367,7 @@
 			<div class = "row " id="mapandinfo" >
 				<div class = "col-lg-4"  id="thankyou">
 					<div id= "logo">
-						<img src="images/mwmcc.JPG">
+						<img src="images/nepalTourismBoard.jpg">
 					</div>
 
 					<div id="text">
@@ -517,7 +517,7 @@
 
 					<div class="form-group">
 						<legend>
-							Are you going to stay in Monroe-West Monroe Hotel?
+							Are you going to stay in hotel near Kathamndu?
 						</legend>
 						<div class="right-inner-addon">
 							<label class="radio-inline">
@@ -614,7 +614,7 @@
 						<div class="col-lg-8">
 							<input type="checkbox" name="emailYes" id="emailYes" onclick="ShowHideDiv(this)">
 							<p style="font-size:28px;display:inline">
-								I would like to receive monthly emails about Monroe-West Monroe events.
+								I would like to receive monthly emails about  events from Nepal Tourism Board.
 							</p>
 						</div>
 					</div>

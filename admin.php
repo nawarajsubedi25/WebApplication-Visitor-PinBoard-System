@@ -58,7 +58,7 @@ include('session.php');
 			<aside class="bg-dark">
 				<div class="container text-center">
 					<div class="call-to-action">
-						<h2><a style ="color:white" href ="admin.php"><span class="glyphicon glyphicon-home"></span></a> Monroe West Monroe Vistor Admin Site</h2>
+						<h2><a style ="color:white" href ="admin.php"><span class="glyphicon glyphicon-home"></span></a>Nepal Tourism Board Admin Site</h2>
 
 					</div>
 				</div>

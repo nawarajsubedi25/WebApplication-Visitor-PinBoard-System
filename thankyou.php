@@ -95,7 +95,7 @@ $raj->insertDatabase($query);
 		<style type="text/css">
 			html {
 
-				background: url(images/blackbayou.jpg) no-repeat center center fixed;
+				background: url(images/thankyou.jpg) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
@@ -131,7 +131,7 @@ $raj->insertDatabase($query);
 	<body>
 		<div class="container">
 			<div class="thankyou">
-				<h1>Thank You for visiting Monroe-West Monroe CVB</h1>
+				<h1>Thank You for visiting Nepal</h1>
 				<h4>Please visit our front desk if you'd like more information</h4>
 				<br>
 				<a href="index.html" class="btn btn-default btn-lg">Exit</a>

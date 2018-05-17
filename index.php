@@ -8,7 +8,7 @@ header("Location: admin.php");
 ?>
 <html>
 	<head>
-		<title>MWMCVB</title>
+		<title>Nepal Toursim Board</title>
 		<meta name="robots" content="noindex, nofollow" />
 		<!--CSS FOR ADMIN LGOIN & PASSWORD -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -28,7 +28,7 @@ header("Location: admin.php");
 			<aside class="bg-dark">
 				<div class="container text-center">
 					<div class="call-to-action">
-						<h2 style="background-color : transparent;">Monroe West Monroe Vistor Admin Site</h2>
+						<h2 style="background-color : transparent;">Nepal Tourism Board Admin Site</h2>
 					</div>
 				</div>
 			</aside>
